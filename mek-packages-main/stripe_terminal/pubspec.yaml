@@ -1,8 +1,8 @@
 name: mek_stripe_terminal
 description: A StripeTerminal plugin to discover readers, connect to them and process payments.
 version: 3.3.0
-repository: https://github.com/BreX900/mek-packages/tree/main/stripe_terminal
-homepage: https://github.com/BreX900/mek-packages/tree/main/stripe_terminal
+repository: https://github.com/aryan-bb/TapToPay_POF/tree/main/mek-packages-main/stripe_terminal
+homepage: https://github.com/aryan-bb/TapToPay_POF/tree/main/mek-packages-main/stripe_terminal
 topics:
   - stripe-terminal
   - mek-packages
